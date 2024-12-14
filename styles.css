@@ -10,6 +10,7 @@ body {
   align-items: center;
   height: 100vh;
   overflow: hidden;
+  cursor: url('https://zupimages.net/up/24/50/ift0.png'), auto; /* Curseur personnalisé */
 }
 
 /* Terminal Loader Styles */
@@ -20,13 +21,16 @@ body {
 }
 
 @keyframes typeAndDelete {
-  0%, 10% {
+  0%,
+  10% {
     width: 0;
   }
-  45%, 55% {
-    width: 19ch; /* Largeur correspondant aux 19 caractères */
+  45%,
+  55% {
+    width: 17ch; /* Longueur pour "Site in development" */
   }
-  90%, 100% {
+  90%,
+  100% {
     width: 0;
   }
 }
@@ -37,8 +41,8 @@ body {
   color: #0f0;
   font-family: "Courier New", Courier, monospace;
   font-size: 1em;
-  padding: 1.5em 2em;
-  width: fit-content; /* Ajuste la largeur automatiquement */
+  padding: 1.5em 1em;
+  width: fit-content;
   margin: 100px auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
@@ -96,7 +100,6 @@ body {
   white-space: nowrap;
   overflow: hidden;
   border-right: 0.2em solid green; /* Curseur */
-  animation: typeAndDelete 6s steps(19) infinite, /* Steps ajustés au texte */
-             blinkCursor 0.5s step-end infinite alternate;
+  animation: typeAndDelete 4s steps(20) infinite, blinkCursor 0.5s step-end infinite alternate;
   margin-top: 1.5em;
 }
