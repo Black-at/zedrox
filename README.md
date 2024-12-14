@@ -15,11 +15,10 @@ Pendant cette phase, un écran de chargement est affiché en continu pour indiqu
 - **Animation dynamique du texte** indiquant que le site est en cours de développement.
 
 ---
-## 🎥 Aperçu Vidéo
+## 🎥 Aperçu du site
 
-[![Aperçu Vidéo](https://img.youtube.com/vi/vt80YJ_CnF4/maxresdefault.jpg)](https://youtu.be/vt80YJ_CnF4)
+[![Aperçu Vidéo](https://img.youtube.com/vi/vt80YJ_CnF4/maxresdefault.jpg)]
 
-*Cliquez sur l'image pour visionner la vidéo.*
 
 
 
