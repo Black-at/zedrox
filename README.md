@@ -18,7 +18,7 @@ Pendant cette phase, un écran de chargement est affiché en continu pour indiqu
 
 ## 🌟 Aperçu du Projet
 
-![Preview](https://zupimages.net/up/24/50/ift0.png)  
+![Preview](https://cdn.discordapp.com/attachments/956975230729998386/1317572679305527388/apercuproject.mov?ex=675f2cae&is=675ddb2e&hm=199a782cfd8efb1ec6e75486a2e624b15c8a1b29639da03e9a878a1e4b2efdc7&)  
 
 
 ---
